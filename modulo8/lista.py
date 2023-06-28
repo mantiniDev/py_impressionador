@@ -1,5 +1,5 @@
 produtos = ['tv', 'carro', 'armario', 'teclado']
-vendas = [1000, 2000, 500, 200]
+
 
 print(produtos)
 print(vendas)
